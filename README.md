@@ -5,7 +5,7 @@
 <p align="center"><strong>Windows 10/11 x64 · 本地资料管理 · 无需安装 Python</strong></p>
 
 <p align="center">
-  <a href="https://github.com/yuanyi0612-ops/personal-library/releases/download/v2026.10.21/personal-library-windows-x64-2026.10.21.zip"><strong>下载 Windows 工具包</strong></a>
+  <a href="https://github.com/yuanyi0612-ops/personal-library/releases/download/v2026.10.21.1/personal-library-windows-x64-2026.10.21.1.zip"><strong>下载 Windows 工具包</strong></a>
   &nbsp; · &nbsp;
   <a href="使用说明.md">使用说明</a>
   &nbsp; · &nbsp;
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/01-home-underwater.png" alt="个人资料库首页水下视图预览" width="100%">
+  <img src="docs/images/01-home-surface.png" alt="个人资料库首页水上视图预览" width="100%">
 </p>
-<p align="center"><sub>首页水下视图预览；下载包首次运行为空库。</sub></p>
+<p align="center"><sub>2026.10.21.1 版首页水上视图预览；下载包首次运行为空库。</sub></p>
 
 ## 围绕创作流程整理资料
 
@@ -48,7 +48,7 @@
 
 ## 三步开始使用
 
-1. **下载并完整解压**：[获取 Windows 工具 ZIP](https://github.com/yuanyi0612-ops/personal-library/releases/download/v2026.10.21/personal-library-windows-x64-2026.10.21.zip)，解压到有写入权限的文件夹。
+1. **下载并完整解压**：[获取 Windows 工具 ZIP](https://github.com/yuanyi0612-ops/personal-library/releases/download/v2026.10.21.1/personal-library-windows-x64-2026.10.21.1.zip)，解压到有写入权限的文件夹。
 2. **双击启动**：打开根目录的 `PersonalLibrary.exe`，保留旁边完整的 `00-程序框架` 文件夹。
 3. **放入自己的资料**：在页面接入已有素材文件夹，或新建作品、笔记与卡片。
 
@@ -61,7 +61,7 @@
 
 **应该下载哪个文件？**
 
-选择 `personal-library-windows-x64-2026.10.21.zip`。GitHub 自动生成的 “Source code” 压缩包对应本仓库的公开页面资料，并非程序源码或可运行工具。
+选择 `personal-library-windows-x64-2026.10.21.1.zip`。GitHub 自动生成的 “Source code” 压缩包对应本仓库的公开页面资料，并非程序源码或可运行工具。
 
 **接入文件夹会复制原文件吗？**
 
@@ -86,9 +86,9 @@
 <details>
 <summary><strong>版本验证与校验文件</strong></summary>
 
-2026.10.21 版已通过 **208 项源码回归测试**。打包程序已在本机验证空库启动、素材索引、笔记与章节保存、重启读取、桌面首页加载及正常停止。
+基础版 2026.10.21 已通过 **208 项源码回归测试**。打包程序已在本机验证空库启动、素材索引、笔记与章节保存、重启读取、桌面首页加载及正常停止。
 
-尚未进行全新 Windows 电脑上的全部手工操作验收。版本详情见 [发布说明](发布说明.md)，工具包 SHA-256 见 [checksums.sha256](checksums.sha256)。
+2026.10.21.1 仅修正首页天空取样并更新校验清单，其余 91 个文件与基础版一致。本修订通过脚本语法、WebGL 页面渲染和逐文件校验，未重复整套启动验收。尚未进行全新 Windows 电脑上的全部手工操作验收。版本详情见 [发布说明](发布说明.md)，工具包 SHA-256 见 [checksums.sha256](checksums.sha256)。
 
 </details>
 
