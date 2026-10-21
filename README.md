@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/01-home.png" alt="个人资料库首页真实界面" width="100%">
+  <img src="docs/images/01-home-underwater.png" alt="个人资料库首页水下视图预览" width="100%">
 </p>
-<p align="center"><sub>使用独立演示资料拍摄，下载包首次运行为空库。</sub></p>
+<p align="center"><sub>首页水下视图预览；下载包首次运行为空库。</sub></p>
 
 ## 围绕创作流程整理资料
 
